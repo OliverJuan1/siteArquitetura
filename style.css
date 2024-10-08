@@ -1,0 +1,18 @@
+/* CSS HEX */
+
+/* --amethyst: #9b5de5ff;
+--brilliant-rose: #f15bb5ff;
+--maize: #fee440ff;
+--deep-sky-blue: #00bbf9ff;
+--aquamarine: #00f5d4ff;*/
+
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width: 300px;
+    border: 5px;
+    border-radius: 10px;
+}
