@@ -1,0 +1,27 @@
+td{
+    border: 1px solid green;
+    padding: 2px;
+    text-align: center;
+    background-color: purple;
+    border-radius: 2px;
+    color: rgb(255, 255, 255);
+}
+
+th{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 2px;
+    text-align: center;
+    background-color: red;
+    border-radius: 0px;
+    color: rgb(255, 255, 255);
+}
+
+table{
+    background-color: #ffaaaa;
+    width: 100%;
+   /* padding: 25px;*/
+}
+
+body{
+    background-color: rgba(82, 82, 82, 0.822);
+}
